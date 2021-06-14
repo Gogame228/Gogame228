@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👾 &nbsp;Follow Me
+[![VK](https://img.shields.io/badge/-VK-ffffff?style=plastic&logo=VK)&nbsp;](https://vk.com/xyligan_na_rayone)
+[![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=plastic&logo=Instagram)&nbsp;](https://www.instagram.com/twich_2k21/)
 
-<!--
-**Gogame228/gogame228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------------------------------
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+----------------------------------
