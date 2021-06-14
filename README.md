@@ -1,6 +1,5 @@
 # ~~GoGame228~~
-![GoGame228](https://github.com/Gogame228/gogame228/blob/main/assets/banner.png)
-
+[![GoGame228](https://github.com/Gogame228/gogame228/blob/main/assets/banner.png)](https://vk.com/xyligan_na_rayone)
 ---
 ### 👾 &nbsp;__Follow Me__
 [![VK](https://img.shields.io/badge/-VK-ffffff?style=plastic&logo=VK)&nbsp;](https://vk.com/xyligan_na_rayone)
