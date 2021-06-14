@@ -2,7 +2,7 @@
 [![VK](https://img.shields.io/badge/-VK-ffffff?style=plastic&logo=VK)&nbsp;](https://vk.com/xyligan_na_rayone)
 [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=plastic&logo=Instagram)&nbsp;](https://www.instagram.com/twich_2k21/)
 
-----------------------------------
+---
 
 ### 🛠 &nbsp;__Tech Stack__
 
@@ -13,11 +13,15 @@
 >>>>>![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 >>>>>>![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 >>>>>>>![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
---------------------------------
+---
 
 ### ~~___CODE___~~
 ### ___ИСХОДНИКИ ОТКРЫТЫ___
 ### ___SOURCES ARE OPEN___
+
+---
+# ~~ГОВНО~~
+
 
 
 
