@@ -1,10 +1,7 @@
-### Header
+# ~~GoGame228~~
+![GoGame228](https://github.com/Gogame228/gogame228/blob/main/assets/banner.png)
 
-
-
-
-
-
+---
 ### 👾 &nbsp;__Follow Me__
 [![VK](https://img.shields.io/badge/-VK-ffffff?style=plastic&logo=VK)&nbsp;](https://vk.com/xyligan_na_rayone)
 [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=plastic&logo=Instagram)&nbsp;](https://www.instagram.com/twich_2k21/)
