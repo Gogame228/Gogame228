@@ -23,7 +23,10 @@
 ### ___SOURCES ARE OPEN___
 ### ~~___CODE___~~
 ---
-
+# More
+#### WeChat Official Accounts
+*Charles_pikachu*  
+![img](pikachu.jpg)
 
 
 
