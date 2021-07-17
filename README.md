@@ -23,13 +23,8 @@
 ### ___SOURCES ARE OPEN___
 ### ~~___CODE___~~
 ---
+
 # More
-#### WeChat Official Accounts
-*Charles_pikachu*  
-![img](pikachu.jpg)
-
-
-
-
-
-
+#### VK Official Accounts
+# *Gogame228*  
+![img](1.jpg)
