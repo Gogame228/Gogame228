@@ -28,3 +28,5 @@
 #### VK Official Accounts
 # *Gogame228*  
 ![img](1.jpg)
+---
+# ~~*кирилл лох*~~
