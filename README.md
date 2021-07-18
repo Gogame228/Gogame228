@@ -29,4 +29,8 @@
 # *Gogame228*  
 ![img](1.jpg)
 ---
-# ~~*кирилл лох*~~
+# ~~*кирилл pidro*~~
+вот его ссылка на qr code
+#### VK Official Accounts
+# *Gogame228*  
+![img](k.jpg)
