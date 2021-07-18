@@ -29,8 +29,5 @@
 # *Gogame228*  
 ![img](1.jpg)
 ---
-# ~~*кирилл pidro*~~
-вот его ссылка на qr code
-#### VK Official Accounts
-# *Gogame228*  
-![img](k.jpg)
+# k
+[![VK](https://img.shields.io/badge/-VK-ffffff?style=plastic&logo=VK)&nbsp;](https://vk.com/scherdakov0)
