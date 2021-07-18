@@ -29,5 +29,3 @@
 # *Gogame228*  
 ![img](1.jpg)
 ---
-# k
-[![VK](https://img.shields.io/badge/-VK-ffffff?style=plastic&logo=VK)&nbsp;](https://vk.com/scherdakov0)
